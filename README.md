@@ -1,6 +1,6 @@
 ## Project Description
 
-This java project stimulates the operation of the weather sensor using RestAPI. [Client](https://github.com/Doreamon08/RestAPIConsumer)
+This java project simulates the operation of the weather sensor using RestAPI. [Client](https://github.com/Doreamon08/RestAPIConsumer)
 
 ### Stack of Technologies Used
 1. **Java 17**
