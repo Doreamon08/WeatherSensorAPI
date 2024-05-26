@@ -13,7 +13,8 @@ This java project stimulates the operation of the weather sensor using RestAPI. 
 4. **Hibernate Validator 8.0.1.Final**
 5. **ModelMapper 3.1.1**
 6. **Maven**
-7. **Jackson**
+7. **RestAPI**
+8. **Jackson**
 
 ### Implemented Features
 
